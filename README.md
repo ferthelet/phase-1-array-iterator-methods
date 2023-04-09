@@ -2,7 +2,7 @@
 
 ## Learning Goals
 
-- Understand how JavaScript's iterator methods help us
+- Understand how JavaScript's iterator methods help us.
 
 ## Introduction
 
